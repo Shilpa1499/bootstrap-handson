@@ -1,0 +1,18 @@
+body{
+    width: 100%;
+   
+}
+
+.col-sm-8{
+    background-color:rgb(204, 221, 203);
+    
+}
+.col-sm-4{
+    background-color:rgb(221, 204, 222);
+    
+    
+}
+.active {
+    background-color: green !important;
+    border-radius: 0%;
+}
